@@ -58,13 +58,13 @@ pip install opencv-python numpy ultralytics moviepy
 For an **image**:
 
 ```bash
-python blacken_content.py input_image.jpg
+python blacken_people.py input_image.jpg
 ```
 
 For a **video**:
 
 ```bash
-python blacken_content.py input_video.mp4
+python blacken_people.py input_video.mp4
 ```
 
 Output files will be saved in the same folder:
